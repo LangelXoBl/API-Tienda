@@ -1,0 +1,26 @@
+{
+  "productos": [
+    {
+      "id": "5b8b54a6-ce7d-40fd-9377-e4f8beff92c4",
+      "name": "xbox 360",
+      "precio": 2890,
+      "descripcion": "consola de medio uso, pero en buen estado"
+    },
+    {
+      "id": "b249c918-edb7-4e94-88df-c998a79998fd",
+      "name": "Pc-gamer",
+      "precio": 15280
+    },
+    {
+      "id": "19e063ee-125e-4b24-a283-5c0c87456c97",
+      "name": "cheetos",
+      "precio": 13
+    },
+    {
+      "id": "910a236e-37a1-4fee-9fda-43e6ac68956c",
+      "name": "doritos",
+      "precio": 15,
+      "descripcion": "En el siguiente ejemplo, split busca 0 o más espacios seguidos de un punto y coma seguido por 0 o más espacios y, cuando los halla, elimina los espacios de la cadena."
+    }
+  ]
+}
